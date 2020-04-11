@@ -13,6 +13,5 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "outDir": "./www"
-  },
-  "exclude": ["k8s"]
+  }
 }
