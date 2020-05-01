@@ -38,7 +38,7 @@ A `User` instance with a unique `email` value.
 ##### Returns
 A `RegistrationResponse` object.
 
-#### `POST /api/{version}/users/login`
+#### `POST /api/{version}/users/auth/login`
 Logs in using an existing user's information.
 ##### Parameters
 `version` - The User API version.
